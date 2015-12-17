@@ -1,2 +1,2 @@
 # gitskikks
-createing a new branch is quick And simple
+createing a new branch is quick and simple
